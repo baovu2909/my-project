@@ -1,9 +1,8 @@
-# My Project
-
-This is my project. I want to do one for learn how to use Git and GitHub
+# PHP MY PROJECT RATE MY TEACHER
+HELLO EVERYONE!
+This is my project. That one is PHP Code 
 
 ## How to install
-
 
 ```bash
 git clone https://github.com/baovu2909/my-project.git
