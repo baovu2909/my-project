@@ -1,7 +1,6 @@
 # My Project
 
-Đây là một dự án mẫu sử dụng GitHub để quản lý mã nguồn.  
-Dự án được tạo nhằm mục đích học cách sử dụng Git và GitHub.
+This is my project. I want to do one for learn how to use Git and GitHub
 
 ## How to install
 
